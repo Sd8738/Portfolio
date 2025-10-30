@@ -13,6 +13,7 @@ const Navigation = () => {
     { name: 'Home', href: '#home', isSection: true },
     { name: 'About', href: '#about', isSection: true },
     { name: 'Education', href: '#education', isSection: true },
+    { name: 'Internship', href: '#internship', isSection: true },
     { name: 'Skills', href: '#skills', isSection: true },
     { name: 'Hackathons', href: '#hackathons', isSection: true },
     { name: 'Projects', href: '#projects', isSection: true },
